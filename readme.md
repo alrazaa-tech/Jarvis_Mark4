@@ -1,4 +1,7 @@
-
+"Python3 setup.py" for Mac users
+"Py setup.py" for windows users
+Python3 main.py for Mac users
+Py main.py for windows users
 
 Mark LV gave the assistant a screen. **Mark LVI lets you choose what runs it.**
 
